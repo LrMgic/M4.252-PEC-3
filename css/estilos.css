@@ -218,7 +218,7 @@ footer a:hover {
 }
 .general h1 {
   font-size: 2.5em;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 iframe {
@@ -416,6 +416,11 @@ iframe {
   line-height: 1;
   font-weight: bold;
 }
+
+.cienfic dt:first-child{
+  margin-top: 0px;
+}
+
 .cienfic dd {
   background-color: var(--fondo-claro);
   line-height: 0;
