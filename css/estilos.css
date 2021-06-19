@@ -238,6 +238,10 @@ iframe {
   }
 }
 /* Index.html */
+.index {
+  margin-bottom: 80px;
+}
+
 .index img {
   width: 100%;
 }
@@ -253,7 +257,7 @@ iframe {
   padding: 3%;
   height: 40vw;
   max-height: 70vh;
-  min-height: 25vh;
+  min-height: 30vh;
 }
 
 .index .indexsection1 h1 {
@@ -294,13 +298,12 @@ iframe {
 }
 
 .index article {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 0 0 40px;
 }
 
 .index article h3 {
   font-size: 1.5em;
-  margin: 10px 0;
+  margin: 0 0 10px 0;
 }
 
 @media (min-width: 500px) {
