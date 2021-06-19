@@ -508,9 +508,6 @@ iframe {
     width: 100%;
     height: 43vw;
   }
-  .cinemart h1 {
-    flex: 1 1 100%;
-  }
   .cinemart figure {
     flex: 1 1 40%;
     margin-bottom: 0;
