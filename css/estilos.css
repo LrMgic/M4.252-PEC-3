@@ -298,6 +298,10 @@ iframe {
   padding-bottom: 20px;
 }
 
+.index article:nth-child(even) {
+  background-color: var(--fondo-claro);
+}
+
 .index article h3 {
   font-size: 1.5em;
   margin: 10px 0;
@@ -319,9 +323,6 @@ iframe {
     height: auto;
     padding: 0;
     flex: 0 0 50%;
-  }
-  .index article:nth-child(even) {
-    background-color: var(--fondo-claro);
   }
 
   .index article h3 {
